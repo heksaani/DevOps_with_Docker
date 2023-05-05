@@ -1,0 +1,15 @@
+#5/5/2023
+
+DevOps - Development + Operations
+release, configure 
+
+
+WHAT IS DOCKER
+- set of platforms as a service (PaaS) products that use OS-level virtualization 
+
+
+1. DOCKER --> set of tools to deliver software in containers
+2. CONTAINERS --> packages of software
+
+WORKS ON MY MACHINE PROBLEM --> without containers
+
